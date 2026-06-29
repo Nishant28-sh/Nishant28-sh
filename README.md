@@ -5,30 +5,30 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=🚀+Full+Stack+Developer+%7C+MERN+Stack;⚡+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;🎯+Turning+Complex+Problems+into+Clean+Code;💡+Consistency+beats+talent+when+talent+doesn't+practice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=🚀+Full+Stack+Developer+%7C+MERN+Stack;⚡+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;🎯+Turning+Complex+Problems+into+Clean+Code;💡+Consistency+beats+talent+when+talent+doesn't+practice" alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishant28-sh&label=👁️+Profile+Views&color=a855f7&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nishant28-sh&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Nishant28-sh?label=🤝+Followers&style=for-the-badge&color=a855f7&logo=github&logoColor=white" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/Nishant28-sh?label=Followers&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&logoColor=white" alt="followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Nishant28-sh?label=⭐+Stars&style=for-the-badge&color=a855f7&logo=github&logoColor=white" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/Nishant28-sh?label=Stars&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&logoColor=white" alt="stars"/>
 </p>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.nishantsharmaa.in/">
+<p align="center">
+  <a href="https://www.nishantsharmaa.in/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-nishantsharmaa.in-a855f7?style=for-the-badge&labelColor=0d1117"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1Ed_2F2_ilSVnpfXZW78MiU9HhSo4K3kd/view">
-    <img src="https://img.shields.io/badge/📄_Resume-View+CV-a855f7?style=for-the-badge&labelColor=0d1117"/>
+  <a href="https://drive.google.com/file/d/1Ed_2F2_ilSVnpfXZW78MiU9HhSo4K3kd/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-View_CV-a855f7?style=for-the-badge&labelColor=0d1117"/>
   </a>
-</div>
+</p>
 
 <br/>
 
@@ -36,9 +36,9 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
 name       : Nishant Sharma
@@ -66,21 +66,18 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,scss&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,scss&theme=dark" />
 
 ### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,spring&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,spring&theme=dark" />
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=8" />
-
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark&perline=8" />
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma,postman,vercel&theme=dark" />
 
 </div>
 
@@ -90,11 +87,11 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Nishant28-sh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&rank_icon=github&title_color=a855f7&icon_color=a855f7"/>
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nishant28-sh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=16&title_color=a855f7"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nishant28-sh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&title_color=a855f7&icon_color=a855f7"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant28-sh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=16&title_color=a855f7"/>
 </p>
 
 <br/>
@@ -106,7 +103,7 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nishant28-sh&theme=tokyonight&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nishant28-sh&theme=tokyonight&hide_border=true&border_radius=16&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="70%" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -127,55 +124,11 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 
 <br/>
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishant28-sh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&title_color=a855f7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishant28-sh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" width="96%"/>
 </p>
-
-<br/>
-
----
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/snake.svg" width="100%">
-</picture>
-
-<details>
-<summary>⚙️ Setup Snake Animation (click to expand)</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Nishant28-sh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 <br/>
 
@@ -187,13 +140,13 @@ jobs:
 
 <div align="center">
 
-| 🚀 What | 📊 Progress | 🎯 Status |
-|---------|-------------|-----------|
-| MERN Stack Projects | `████████████░░░` 80% | 🔨 Building |
-| TypeScript Mastery | `█████████░░░░░░` 60% | 📖 Learning |
-| System Design | `██████░░░░░░░░░` 40% | 🌱 Exploring |
-| DSA & Problem Solving | `███████████░░░░` 72% | ⚡ Grinding |
-| Open Source Contributions | `████░░░░░░░░░░░` 25% | 🎯 Starting |
+| Area | Progress | Status |
+|------|----------|--------|
+| 🔨 MERN Stack Projects | `████████████░░░` 80% | Building |
+| 📘 TypeScript Mastery | `█████████░░░░░░` 60% | Learning |
+| 🏗️ System Design | `██████░░░░░░░░░` 40% | Exploring |
+| ⚡ DSA & Problem Solving | `███████████░░░░` 72% | Grinding |
+| 🌱 Open Source | `████░░░░░░░░░░░` 25% | Starting |
 
 </div>
 
@@ -238,63 +191,48 @@ jobs:
 
 <br/>
 
-## 🌐 Let's Connect
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-sharma-24b089285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ns87086sh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Nishant28-sh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.nishantsharmaa.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/er_Nishant_sh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/er_nishant_sharma_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
+<details>
+<summary>⚙️ How to enable the Snake animation</summary>
 <br/>
 
----
+Create a file at `.github/workflows/snake.yml` in your profile repo (`Nishant28-sh/Nishant28-sh`):
 
-<br/>
+```yaml
+name: Generate Snake Animation
 
-## 🧑‍🚀 Beyond The Code
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎬-Cinematic_UI_%26_Framer_Motion-a855f7?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/☕-Code_Until_Chai_Gets_Cold-a855f7?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🐛-Debug_→_Fix_→_Ship_→_Repeat-a855f7?style=for-the-badge&labelColor=0d1117" />
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Nishant28-sh
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯-Always_Chasing_The_Next_Problem-a855f7?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🌱-Open_Source_Contributor-a855f7?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-<br/>
-
-<p align="center">
-  <i>💡 I build things that are fast, beautiful, and purposeful.</i><br/>
-  <i>🎯 Turning complex problems into simple, elegant solutions.</i><br/>
-  <i>⚡ Consistency beats talent when talent doesn't practice.</i>
-</p>
+Then go to **Actions** tab → run the workflow manually once → done! 🎉
+</details>
 
 <br/>
 
@@ -316,8 +254,6 @@ jobs:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishant28-sh&theme=tokyonight"/>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishant28-sh&theme=tokyonight"/>
   &nbsp;
@@ -330,21 +266,59 @@ jobs:
 
 <br/>
 
-<div align="center">
+## 🌐 Let's Connect
 
-### 📬 Open For Opportunities
-
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-sharma-24b089285/)
-&nbsp;
-[![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ns87086sh@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.nishantsharmaa.in/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishant-sharma-24b089285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ns87086sh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.nishantsharmaa.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/er_Nishant_sh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/er_nishant_sharma_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+---
 
-</div>
+<br/>
+
+## 🧑‍🚀 Beyond The Code
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎬_Cinematic_UI_%26_Framer_Motion-a855f7?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/☕_Code_Until_Chai_Gets_Cold-a855f7?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🐛_Debug_Fix_Ship_Repeat-a855f7?style=flat-square&labelColor=0d1117" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+<br/>
+
+<p align="center">
+  <i>💡 I build things that are fast, beautiful, and purposeful.</i><br/>
+  <i>🎯 Turning complex problems into simple, elegant solutions.</i><br/>
+  <i>⚡ Consistency beats talent when talent doesn't practice.</i>
+</p>
 
 <br/>
 
@@ -355,7 +329,7 @@ jobs:
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+something+amazing+together!+🚀;Always+open+to+new+opportunities+💼" alt="Footer typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+🚀;Always+open+to+new+opportunities+💼" alt="Footer typing"/>
 </p>
 
 <p align="center">
