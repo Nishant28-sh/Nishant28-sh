@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Nishant%20Sharma&fontSize=72&fontAlignY=38&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20React%20%7C%20Next.js&descAlignY=58&descAlign=50&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nishant%20Sharma&fontSize=64&fontAlignY=38&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=58&descAlign=50&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=🚀+Full+Stack+Developer+%7C+MERN+Stack;⚡+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;🎯+Turning+Complex+Problems+into+Clean+Code;💡+Consistency+beats+talent+when+talent+doesn%27t+practice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Software+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+scalable+web+applications" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -22,11 +22,11 @@
 
 <p align="center">
   <a href="https://www.nishantsharmaa.in/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-nishantsharmaa.in-a855f7?style=for-the-badge&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Portfolio-nishantsharmaa.in-a855f7?style=for-the-badge&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1Ed_2F2_ilSVnpfXZW78MiU9HhSo4K3kd/view" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-View_CV-a855f7?style=for-the-badge&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Resume-View_CV-a855f7?style=for-the-badge&labelColor=0d1117"/>
   </a>
 </p>
 
@@ -36,20 +36,20 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+## About Me
 
 <img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
 name       : Nishant Sharma
-location   : India 🇮🇳
-education  : B.Tech CSE · KR Mangalam University (Final Year)
-currently  : Building MERN apps with real-time features & REST APIs
-learning   : TypeScript · GraphQL · System Design · Backend Optimization
-looking_for: Full-Stack / Frontend Developer Roles
-open_to    : Freelance · Internships · Open Source
-fun_fact   : I debug more than I code — and I love it
-motto      : Consistency beats talent when talent doesn't practice ⚡
+title      : Full Stack Developer | Software Developer
+location   : India
+education  : B.Tech CSE, KR Mangalam University (Final Year)
+currently  : Building full-stack web applications with real-time features and REST APIs
+learning   : TypeScript, GraphQL, System Design, Backend Optimization
+looking_for: Full-Stack / Software Developer Roles
+open_to    : Freelance, Internships, Open Source Collaboration
+motto      : Consistency beats talent when talent doesn't practice
 ```
 
 <br clear="right"/>
@@ -66,17 +66,17 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,scss&theme=dark" />
 
-### ⚡ Frameworks & Libraries
+### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,spring&theme=dark" />
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma,postman,vercel&theme=dark" />
 
 </div>
@@ -87,7 +87,7 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 
 <br/>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nishant28-sh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&title_color=a855f7&icon_color=a855f7"/>
@@ -100,7 +100,7 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 
 <br/>
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nishant28-sh&theme=tokyonight&hide_border=true&border_radius=16&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="70%" alt="GitHub Streak"/>
@@ -112,7 +112,7 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 
 <br/>
 
-## 📈 Contribution Graph + 🐍 Snake
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant28-sh&theme=tokyo-night&hide_border=true&radius=16&area=true&area_color=a855f7&line=a855f7&point=ffffff" width="96%" alt="Contribution Graph"/>
@@ -125,7 +125,7 @@ motto      : Consistency beats talent when talent doesn't practice ⚡
 </picture>
 
 <details>
-<summary>🐍 Click here to set up Snake animation (one-time only)</summary>
+<summary>Set up Snake animation (one-time setup)</summary>
 <br/>
 
 In your **`Nishant28-sh`** profile repo, create this file:
@@ -155,7 +155,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to **Actions tab → Run workflow manually once** → Snake appears! 🎉
+Then go to **Actions tab → Run workflow manually once**.
 
 </details>
 
@@ -165,7 +165,7 @@ Then go to **Actions tab → Run workflow manually once** → Snake appears! �
 
 <br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nishant28-sh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="96%" alt="Trophies"/>
@@ -177,17 +177,17 @@ Then go to **Actions tab → Run workflow manually once** → Snake appears! �
 
 <br/>
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
 | Area | Progress | Status |
 |------|----------|--------|
-| 🔨 MERN Stack Projects | `████████████░░░` 80% | Building |
-| 📘 TypeScript Mastery | `█████████░░░░░░` 60% | Learning |
-| 🏗️ System Design | `██████░░░░░░░░░` 40% | Exploring |
-| ⚡ DSA & Problem Solving | `███████████░░░░` 72% | Grinding |
-| 🌱 Open Source | `████░░░░░░░░░░░` 25% | Starting |
+| Full-Stack Projects | `████████████░░░` 80% | Building |
+| TypeScript | `█████████░░░░░░` 60% | Learning |
+| System Design | `██████░░░░░░░░░` 40% | Exploring |
+| DSA & Problem Solving | `███████████░░░░` 72% | Practicing |
+| Open Source | `████░░░░░░░░░░░` 25% | Starting |
 
 </div>
 
@@ -197,32 +197,28 @@ Then go to **Actions tab → Run workflow manually once** → Snake appears! �
 
 <br/>
 
-## 🖥️ Nishant.exe — System Status
+## System Status
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ⚡  SYSTEM BOOT — Nishant OS v4.0  ⚡             ║
+║                       SYSTEM BOOT — Nishant OS v4.0                  ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  OS          →  Ambition 24.04 LTS (Never Stops Shipping)          ║
-║  CPU         →  Problem Solver @ 3.6GHz · 8 cores (all grinding)   ║
-║  RAM         →  Infinite curiosity + 4GB chai buffer               ║
-║  Storage     →  500GB ideas · 2TB unfinished side projects          ║
-║  GPU         →  Creative Rendering Engine · Framer Motion Ready     ║
-║  Network     →  Always ON · Open to Opportunities                   ║
-║  Uptime      →  Final Year B.Tech CS · 0 days idle                 ║
+║  OS          →  Ambition 24.04 LTS                                  ║
+║  CPU         →  Problem Solver @ 3.6GHz · 8 cores                   ║
+║  RAM         →  Curiosity + persistence                             ║
+║  Storage     →  Ideas and ongoing side projects                     ║
+║  Network     →  Open to opportunities                               ║
+║  Uptime      →  Final Year B.Tech CS                                ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  PROCESS              PID    CPU%    STATUS                         ║
-║  MERN_Stack.exe       001    42%     [██████████] BUILDING  🔥      ║
-║  TypeScript.exe       002    25%     [████████░░] LEARNING  📚      ║
-║  System_Design        003    18%     [██████░░░░] EXPLORING 🌱      ║
-║  Open_Source.exe      004    10%     [███░░░░░░░] STARTING  🎯      ║
-║  Social_Life.exe      404    0%      [░░░░░░░░░░] NOT FOUND 💀      ║
+║  Full_Stack_Dev.exe   001    42%     [██████████] BUILDING          ║
+║  TypeScript.exe       002    25%     [████████░░] LEARNING          ║
+║  System_Design        003    18%     [██████░░░░] EXPLORING         ║
+║  Open_Source.exe      004    10%     [███░░░░░░░] STARTING          ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  ✅  git push origin main      →  SUCCESS                           ║
-║  ✅  chai.brew() init          →  HOT & READY ☕                    ║
-║  ✅  new_project.init()        →  ALWAYS READY                      ║
-║  ⚠️   sleep_schedule.exe       →  DEPRECATED                        ║
-║  🔁  while(!hired) { improve } →  RUNNING...                        ║
+║  git push origin main      →  SUCCESS                               ║
+║  new_project.init()        →  ALWAYS READY                          ║
+║  while(!hired) { improve } →  RUNNING...                            ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -232,7 +228,7 @@ Then go to **Actions tab → Run workflow manually once** → Snake appears! �
 
 <br/>
 
-## 📬 Profile Summary
+## Profile Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishant28-sh&theme=tokyonight" width="96%"/>
@@ -258,7 +254,7 @@ Then go to **Actions tab → Run workflow manually once** → Snake appears! �
 
 <br/>
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishant-sharma-24b089285/" target="_blank">
@@ -289,13 +285,8 @@ Then go to **Actions tab → Run workflow manually once** → Snake appears! �
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
-
-<p align="center">
-  <i>💡 I build things that are fast, beautiful, and purposeful.</i><br/>
-  <i>🎯 Turning complex problems into simple, elegant solutions.</i><br/>
-  <i>⚡ Consistency beats talent when talent doesn't practice.</i>
+  <i>I build things that are reliable, well-structured, and purposeful.</i><br/>
+  <i>Always working on turning complex problems into simple, elegant solutions.</i>
 </p>
 
 <br/>
@@ -303,13 +294,9 @@ Then go to **Actions tab → Run workflow manually once** → Snake appears! �
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let%27s+build+something+amazing+🚀;Always+open+to+new+opportunities+💼" alt="Footer typing"/>
-</p>
-
-<p align="center">
-  <i>⭐ From <a href="https://github.com/Nishant28-sh">Nishant28-sh</a> with ❤️ — Drop a star if something caught your eye!</i>
+  <i>From <a href="https://github.com/Nishant28-sh">Nishant28-sh</a> — Thanks for visiting my profile.</i>
 </p>
