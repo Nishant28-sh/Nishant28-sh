@@ -128,9 +128,56 @@ motto      : Consistency beats talent when talent doesn't practice
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nishant28-sh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&title_color=a855f7&icon_color=a855f7"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant28-sh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=16&title_color=a855f7"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/stats.svg"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/langs.svg"/>
 </p>
+
+<details>
+<summary>Set up GitHub Stats (one-time setup — always works, no third-party servers)</summary>
+<br/>
+
+Create `.github/workflows/stats.yml` in your `Nishant28-sh` profile repo:
+
+```yaml
+name: Generate GitHub Stats
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Nishant28-sh
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          filename: output/stats.svg
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Nishant28-sh
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          filename: output/langs.svg
+```
+
+Then:
+1. Go to GitHub → Settings → Developer Settings → Personal Access Tokens → Generate new token (classic) with `read:user`, `repo` scopes
+2. Go to your profile repo → Settings → Secrets → Add `METRICS_TOKEN` with that token
+3. Actions tab → Run workflow manually once
+
+Stats will update every 6 hours automatically — no third-party server needed!
+
+</details>
 
 <br/>
 
