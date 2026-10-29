@@ -1,315 +1,74 @@
+<!--
+Nishant Sharma — GitHub Profile README
+Replace the portrait placeholders in assets/ with your own transparent PNGs when available.
+No unverified statistics or project URLs are included.
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nishant%20Sharma&fontSize=64&fontAlignY=38&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=58&descAlign=50&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
+
+<img src="./assets/hero.svg?v=1" alt="Nishant Sharma — Software Engineer & Problem Solver" width="100%"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nishantsharmaa.in-247bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nishantsharmaa.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-sharma-24b089285)
+[![Email](https://img.shields.io/badge/Email-Contact-ff354f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ns87086sh@gmail.com)
+
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Software+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+scalable+web+applications" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishant28-sh&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Nishant28-sh?label=Followers&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&logoColor=white" alt="followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Nishant28-sh?label=Stars&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&logoColor=white" alt="stars"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.nishantsharmaa.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-nishantsharmaa.in-a855f7?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1Ed_2F2_ilSVnpfXZW78MiU9HhSo4K3kd/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View_CV-a855f7?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-</p>
-
-<br/>
 
 ---
 
-<br/>
+## About me
 
-## About Me
+<img align="right" src="./assets/id-dashboard.svg?v=1" width="230" alt="Nishant profile card placeholder"/>
 
-<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+I'm **Nishant Sharma**, a **Software Engineer & Problem Solver** who enjoys building practical products, exploring full-stack development, and turning ideas into usable experiences.
 
-```yaml
-name       : Nishant Sharma
-title      : Full Stack Developer | Software Developer
-location   : India
-education  : B.Tech CSE, KR Mangalam University (Final Year)
-currently  : Building full-stack web applications with real-time features and REST APIs
-learning   : TypeScript, GraphQL, System Design, Backend Optimization
-looking_for: Full-Stack / Software Developer Roles
-open_to    : Freelance, Internships, Open Source Collaboration
-motto      : Consistency beats talent when talent doesn't practice
-```
+- Building with modern web technologies and backend systems
+- Interested in problem solving, system design, and product engineering
+- Enjoy coding, badminton, and participating in hackathons
 
 <br clear="right"/>
 
-<div align="center">
+## Featured projects
 
-> *"First, solve the problem. Then, write the code."*
+| Project | What it is |
+|---|---|
+| **TradeTogether** | A peer-to-peer exchange platform concept focused on listings, barter negotiation, and user-to-user communication. |
+| **Enclave Portal** | A web portal project built with a modern frontend and backend workflow. |
+| **PlacePrep** | A placement-preparation website built with Flask and SQLite. |
+| **IDEAS 4.0** | A university exhibition platform concept for QR-based stall profiles, visitor ratings, feedback, and Excel export. |
 
-</div>
+> Project links are intentionally omitted until the exact public URLs are confirmed.
 
-<br/>
+## Tech I work with
 
----
+<img src="./assets/stack.svg?v=1" alt="Technology stack" width="100%"/>
 
-<br/>
+**Languages:** Java, JavaScript, Python, C++, HTML, CSS  
+**Frontend:** React, Vite, Tailwind CSS  
+**Backend:** Node.js, Express.js, Flask  
+**Databases:** MongoDB, MySQL, SQLite  
+**Tools & concepts:** Git, GitHub, Docker, REST APIs, JWT, Socket.IO, system design
 
-## Badges
+## Beyond the code
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge&labelColor=0d1117&color=a855f7"/>
-  <img src="https://img.shields.io/badge/Final_Year-B.Tech_CSE-blue?style=for-the-badge&labelColor=0d1117&color=a855f7"/>
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-orange?style=for-the-badge&labelColor=0d1117&color=a855f7"/>
-</p>
+<img src="./assets/about-life.svg?v=1" alt="Interests and working style" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+I like learning by building, collaborating with teams, and taking ideas from a rough concept to a working product.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+## Let's connect
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## Tech Stack
+<img src="./assets/connect.svg?v=1" alt="Connect with Nishant" width="100%"/>
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,scss&theme=dark" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,spring&theme=dark" />
-
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma,postman,vercel&theme=dark" />
+[**Portfolio**](https://www.nishantsharmaa.in) ·
+[**LinkedIn**](https://www.linkedin.com/in/nishant-sharma-24b089285) ·
+[**Email**](mailto:ns87086sh@gmail.com)
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nishant28-sh&theme=tokyonight&hide_border=true&border_radius=16&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="70%" alt="GitHub Streak"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant28-sh&theme=tokyo-night&hide_border=true&radius=16&area=true&area_color=a855f7&line=a855f7&point=ffffff" width="96%" alt="Contribution Graph"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Nishant28-sh/Nishant28-sh/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-<details>
-<summary>Set up Snake animation (one-time setup)</summary>
-<br/>
-
-In your **`Nishant28-sh`** profile repo, create this file:
-**`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Nishant28-sh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Run workflow manually once**.
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## Current Focus
-
-<div align="center">
-
-| Area | Progress | Status |
-|------|----------|--------|
-| Full-Stack Projects | `████████████░░░` 80% | Building |
-| TypeScript | `█████████░░░░░░` 60% | Learning |
-| System Design | `██████░░░░░░░░░` 40% | Exploring |
-| DSA & Problem Solving | `███████████░░░░` 72% | Practicing |
-| Open Source | `████░░░░░░░░░░░` 25% | Starting |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## System Status
-
-```bash
-╔══════════════════════════════════════════════════════════════════════╗
-║                       SYSTEM BOOT — Nishant OS v4.0                  ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  OS          →  Ambition 24.04 LTS                                  ║
-║  CPU         →  Problem Solver @ 3.6GHz · 8 cores                   ║
-║  RAM         →  Curiosity + persistence                             ║
-║  Storage     →  Ideas and ongoing side projects                     ║
-║  Network     →  Open to opportunities                               ║
-║  Uptime      →  Final Year B.Tech CS                                ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  PROCESS              PID    CPU%    STATUS                         ║
-║  Full_Stack_Dev.exe   001    42%     [██████████] BUILDING          ║
-║  TypeScript.exe       002    25%     [████████░░] LEARNING          ║
-║  System_Design        003    18%     [██████░░░░] EXPLORING         ║
-║  Open_Source.exe      004    10%     [███░░░░░░░] STARTING          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  git push origin main      →  SUCCESS                               ║
-║  new_project.init()        →  ALWAYS READY                          ║
-║  while(!hired) { improve } →  RUNNING...                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
-<br/>
-
-## Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishant28-sh&theme=tokyonight" width="96%"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nishant28-sh&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishant28-sh&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishant28-sh&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nishant28-sh&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-sharma-24b089285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ns87086sh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.nishantsharmaa.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/er_Nishant_sh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/er_nishant_sharma_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<p align="center">
-  <i>I build things that are reliable, well-structured, and purposeful.</i><br/>
-  <i>Always working on turning complex problems into simple, elegant solutions.</i>
-</p>
-
-<br/>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<sub>Built with care. No unverified stats or fabricated project links.</sub>
 </div>
-
-<p align="center">
-  <i>From <a href="https://github.com/Nishant28-sh">Nishant28-sh</a> — Thanks for visiting my profile.</i>
-</p>
