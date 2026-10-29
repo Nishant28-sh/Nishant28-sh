@@ -5,23 +5,23 @@ Crafted using GitHub Profile Playbook design system
 
 <div align="center">
 
-![Intro](./assets/hero.svg?v=3)
+![Intro](./assets/hero.svg?v=4)
 
 <br/>
 
-![About](./assets/about-life.svg?v=3)
+![About](./assets/about-life.svg?v=4)
 
 <br/>
 
-![Stack](./assets/stack.svg?v=3)
+![Stack](./assets/stack.svg?v=4)
 
 <br/>
 
-![ID](./assets/id-dashboard.svg?v=3)
+![ID](./assets/id-dashboard.svg?v=4)
 
 <br/>
 
-![Connect](./assets/connect.svg?v=3)
+![Connect](./assets/connect.svg?v=4)
 
 <br/>
 
