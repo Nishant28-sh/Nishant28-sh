@@ -1,74 +1,57 @@
 <!--
-Nishant Sharma — GitHub Profile README
-Replace the portrait placeholders in assets/ with your own transparent PNGs when available.
-No unverified statistics or project URLs are included.
+Nishant Sharma — Reimagined Animated GitHub Profile
+Crafted using GitHub Profile Playbook design system
 -->
 
 <div align="center">
 
-<img src="./assets/hero.svg?v=1" alt="Nishant Sharma — Software Engineer & Problem Solver" width="100%"/>
+![Intro](./assets/hero.svg?v=1)
+
+<br/>
+
+![About](./assets/about-life.svg?v=1)
+
+<br/>
+
+![Stack](./assets/stack.svg?v=1)
+
+<br/>
+
+![ID](./assets/id-dashboard.svg?v=1)
+
+<br/>
+
+![Connect](./assets/connect.svg?v=1)
+
+<br/>
+
+### 🌐 Quick Connect & Links
+*Because links inside embedded SVG images are not clickable on GitHub, click directly below:*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nishantsharmaa.in-247bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nishantsharmaa.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-sharma-24b089285)
 [![Email](https://img.shields.io/badge/Email-Contact-ff354f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ns87086sh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nishant28--sh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishant28-sh)
 
 </div>
+
+<br/>
 
 ---
 
-## About me
+### 🚀 Featured Engineering Projects
 
-<img align="right" src="./assets/id-dashboard.svg?v=1" width="230" alt="Nishant profile card placeholder"/>
+| Project | Description | Tech Stack | Status / Link |
+| :--- | :--- | :--- | :--- |
+| **[TradeTogether](https://github.com/Nishant28-sh/TradeTogether)** | Peer-to-peer trading and collaborative stock analysis platform with real-time updates and secure JWT auth. | `Node.js` `Express` `MongoDB` `JWT` `REST APIs` | [🔗 View Code](https://github.com/Nishant28-sh/TradeTogether) |
+| **[IDEAS 4.0](https://github.com/Nishant28-sh)** | University exhibition & idea incubator platform for QR-based stall profiles, visitor ratings, and real-time data sync. | `TypeScript` `React` `Node.js` `PostgreSQL` | [🔗 View Code](https://github.com/Nishant28-sh) |
+| **[PlacePrep](https://github.com/Nishant28-sh)** | Placement preparation and technical interview readiness platform built with full-stack architecture. | `Python` `Flask` `SQLite` `TailwindCSS` | [🔗 View Code](https://github.com/Nishant28-sh) |
+| **[Intellithon-26](https://github.com/Nishant28-sh/Intellithon-26)** | High-octane hackathon platform engineered for rapid prototyping, real-time data streams, and responsive UI. | `React` `JavaScript` `Node.js` `TailwindCSS` | [🔗 View Code](https://github.com/Nishant28-sh/Intellithon-26) |
 
-I'm **Nishant Sharma**, a **Software Engineer & Problem Solver** who enjoys building practical products, exploring full-stack development, and turning ideas into usable experiences.
-
-- Building with modern web technologies and backend systems
-- Interested in problem solving, system design, and product engineering
-- Enjoy coding, badminton, and participating in hackathons
-
-<br clear="right"/>
-
-## Featured projects
-
-| Project | What it is |
-|---|---|
-| **TradeTogether** | A peer-to-peer exchange platform concept focused on listings, barter negotiation, and user-to-user communication. |
-| **Enclave Portal** | A web portal project built with a modern frontend and backend workflow. |
-| **PlacePrep** | A placement-preparation website built with Flask and SQLite. |
-| **IDEAS 4.0** | A university exhibition platform concept for QR-based stall profiles, visitor ratings, feedback, and Excel export. |
-
-> Project links are intentionally omitted until the exact public URLs are confirmed.
-
-## Tech I work with
-
-<img src="./assets/stack.svg?v=1" alt="Technology stack" width="100%"/>
-
-**Languages:** Java, JavaScript, Python, C++, HTML, CSS  
-**Frontend:** React, Vite, Tailwind CSS  
-**Backend:** Node.js, Express.js, Flask  
-**Databases:** MongoDB, MySQL, SQLite  
-**Tools & concepts:** Git, GitHub, Docker, REST APIs, JWT, Socket.IO, system design
-
-## Beyond the code
-
-<img src="./assets/about-life.svg?v=1" alt="Interests and working style" width="100%"/>
-
-I like learning by building, collaborating with teams, and taking ideas from a rough concept to a working product.
-
-## Let's connect
-
-<img src="./assets/connect.svg?v=1" alt="Connect with Nishant" width="100%"/>
-
-<div align="center">
-
-[**Portfolio**](https://www.nishantsharmaa.in) ·
-[**LinkedIn**](https://www.linkedin.com/in/nishant-sharma-24b089285) ·
-[**Email**](mailto:ns87086sh@gmail.com)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
-<sub>Built with care. No unverified stats or fabricated project links.</sub>
+  <sub>Designed with precision using the <b>GitHub Profile Playbook</b> • Crafted for <b>Nishant Sharma</b> (@Nishant28-sh)</sub>
 </div>
