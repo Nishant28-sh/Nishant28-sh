@@ -101,7 +101,7 @@
       <circle cx="28" cy="26" r="14" fill="#ff354f" fill-opacity="0.2" />
       <text x="28" y="31" font-size="14" text-anchor="middle">✉️</text>
       <text x="52" y="24" fill="#ffffff" font-size="13" font-weight="700" class="sans">Email &amp; Direct Inquiries</text>
-      <text x="52" y="41" fill="#94a3b8" font-size="11" class="mono">ns87086sh@gmail.com</text>
+      <text x="52" y="41" fill="#94a3b8" font-size="11" class="mono">nishant.dev.tech@gmail.com</text>
       <g transform="translate(375, 26)" class="nudge-arrow">
         <text x="0" y="6" fill="#f87171" font-size="18" font-weight="700" class="sans" text-anchor="middle">→</text>
       </g>

@@ -5,23 +5,23 @@ Crafted using GitHub Profile Playbook design system
 
 <div align="center">
 
-![Intro](./assets/hero.svg?v=2)
+![Intro](./assets/hero.svg?v=3)
 
 <br/>
 
-![About](./assets/about-life.svg?v=2)
+![About](./assets/about-life.svg?v=3)
 
 <br/>
 
-![Stack](./assets/stack.svg?v=2)
+![Stack](./assets/stack.svg?v=3)
 
 <br/>
 
-![ID](./assets/id-dashboard.svg?v=2)
+![ID](./assets/id-dashboard.svg?v=3)
 
 <br/>
 
-![Connect](./assets/connect.svg?v=2)
+![Connect](./assets/connect.svg?v=3)
 
 <br/>
 
@@ -30,7 +30,7 @@ Crafted using GitHub Profile Playbook design system
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nishantsharmaa.in-247bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nishantsharmaa.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-sharma-24b089285)
-[![Email](https://img.shields.io/badge/Email-Contact-ff354f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ns87086sh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-ff354f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant.dev.tech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Nishant28--sh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishant28-sh)
 
 </div>
