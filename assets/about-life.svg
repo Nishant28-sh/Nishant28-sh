@@ -135,7 +135,7 @@
         <text x="50" y="26" fill="#38bdf8" font-size="15" font-weight="700" class="sans">Building Practical Products</text>
         
         <text x="0" y="65" fill="#e2e8f0" font-size="13" font-weight="600" class="sans">Passionate about side-projects that solve</text>
-        <text x="0" y="85" fill="#e2e8f0" font-size="13" font-weight="600" class="sans">real problems—like collaborative trading</text>
+        <text x="0" y="85" fill="#e2e8f0" font-size="13" font-weight="600" class="sans">real problems—like interactive exhibition</text>
         <text x="0" y="105" fill="#e2e8f0" font-size="13" font-weight="600" class="sans">platforms and developer utilities.</text>
         
         <rect x="0" y="120" width="130" height="22" rx="4" fill="#247bff" fill-opacity="0.15" />

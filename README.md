@@ -5,23 +5,23 @@ Crafted using GitHub Profile Playbook design system
 
 <div align="center">
 
-![Intro](./assets/hero.svg?v=4)
+![Intro](./assets/hero.svg?v=5)
 
 <br/>
 
-![About](./assets/about-life.svg?v=4)
+![About](./assets/about-life.svg?v=5)
 
 <br/>
 
-![Stack](./assets/stack.svg?v=4)
+![Stack](./assets/stack.svg?v=5)
 
 <br/>
 
-![ID](./assets/id-dashboard.svg?v=4)
+![ID](./assets/id-dashboard.svg?v=5)
 
 <br/>
 
-![Connect](./assets/connect.svg?v=4)
+![Connect](./assets/connect.svg?v=5)
 
 <br/>
 
@@ -43,10 +43,10 @@ Crafted using GitHub Profile Playbook design system
 
 | Project | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :--- |
-| **[TradeTogether](https://github.com/Nishant28-sh/TradeTogether)** | Peer-to-peer trading and collaborative stock analysis platform with real-time updates and secure JWT auth. | `Node.js` `Express` `MongoDB` `JWT` `REST APIs` | [🔗 View Code](https://github.com/Nishant28-sh/TradeTogether) |
-| **[IDEAS 4.0](https://github.com/Nishant28-sh)** | University exhibition & idea incubator platform for QR-based stall profiles, visitor ratings, and real-time data sync. | `TypeScript` `React` `Node.js` `PostgreSQL` | [🔗 View Code](https://github.com/Nishant28-sh) |
-| **[PlacePrep](https://github.com/Nishant28-sh)** | Placement preparation and technical interview readiness platform built with full-stack architecture. | `Python` `Flask` `SQLite` `TailwindCSS` | [🔗 View Code](https://github.com/Nishant28-sh) |
+| **[IDEAS 4.0 Platform](https://github.com/Nishant28-sh/ideas4-platform)** | Modern university exhibition & idea incubator ecosystem with QR stall discovery, real-time visitor ratings, and analytics dashboard. | `TypeScript` `React` `Node.js` `Express` `PostgreSQL` | [🔗 View Code](https://github.com/Nishant28-sh/ideas4-platform) |
 | **[Intellithon-26](https://github.com/Nishant28-sh/Intellithon-26)** | High-octane hackathon platform engineered for rapid prototyping, real-time data streams, and responsive UI. | `React` `JavaScript` `Node.js` `TailwindCSS` | [🔗 View Code](https://github.com/Nishant28-sh/Intellithon-26) |
+| **[PlacePrep](https://github.com/Nishant28-sh)** | Placement preparation and technical interview readiness platform built with full-stack architecture. | `Python` `Flask` `SQLite` `TailwindCSS` | [🔗 View Code](https://github.com/Nishant28-sh) |
+| **[TradeTogether](https://github.com/Nishant28-sh/TradeTogether)** | Peer-to-peer trading and collaborative stock analysis platform with real-time updates and secure JWT auth. | `Node.js` `Express` `MongoDB` `JWT` `REST APIs` | [🔗 View Code](https://github.com/Nishant28-sh/TradeTogether) |
 
 <br/>
 
